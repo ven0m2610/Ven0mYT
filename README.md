@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ven0mYT
-- 👀 I’m interested in ... Making Unblocked Game Sites
-- 🌱 I’m currently learning ... How to copy game code into a Github.io website
-- 💞️ I’m looking to collaborate on ... Copying HTML code and putting it into a github.io website
+- 👀 I’m interested in ... making game sites and games.
+- 🌱 I’m currently learning ... Python 🐍
+- 💞️ I’m looking to collaborate on ... my github website
 - 📫 How to reach me ... 10thepancake10@gmail.com
 
 <!---

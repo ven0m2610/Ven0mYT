@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ven0mYT
-- 👀 I’m interested in ... making game sites and games.
-- 🌱 I’m currently learning ... Python 🐍
+- 👀 I’m interested in ... designing a fully custom keyboard for my company.
+- 🌱 I’m currently learning ... JS and CNC Machinin
 - 💞️ I’m looking to collaborate on ... my github website
 - 📫 How to reach me ... 10thepancake10@gmail.com
 
